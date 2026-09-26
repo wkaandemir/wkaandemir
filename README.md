@@ -30,6 +30,7 @@
 
 | Proje | Nedir |
 |---|---|
+| [guvenlik-rehberi](https://github.com/wkaandemir/guvenlik-rehberi) | AppSec ve AI destekli geliştirme için pratik güvenlik dokümantasyonu |
 | [ai-image-detector](https://github.com/wkaandemir/ai-image-detector) | AI ile üretilmiş görsel tespiti için CLIP ViT-B/16 + LoRA modeli |
 | [x-follower-cleaner](https://github.com/wkaandemir/x-follower-cleaner) | X'te senin takip etmediğin takipçileri kaldıran, insan benzeri tempolu Selenium botu |
 
